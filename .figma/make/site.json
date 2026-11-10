@@ -1,0 +1,11 @@
+{
+  "title": "Genesis \u00b7 Letting Agent",
+  "description": "Landlord Service Plans \u2014 Genesis Letting Agent portal: homes, booking jobs, quotes to accept, job progress with photo proof, invoices and payments, statement of account, services and prices, documents, messages, team and account.",
+  "language": "en-GB",
+  "robots": {
+    "index": false
+  },
+  "icons": {
+    "icon": "favicon.svg"
+  }
+}
